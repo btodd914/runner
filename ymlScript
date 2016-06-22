@@ -58,8 +58,8 @@ opyright 2015 CenturyLink
         state:  nodes_present
         port: 80
         nodes:
-          - {'ipAddress': '10.141.224.12', 'privatePort': 22}
-          - {'ipAddress': '10.141.224.14', 'privatePort': 44}
+          - {'ipAddress': '10.75.20.14', 'privatePort': 22}
+          - {'ipAddress': '10.75.20.15', 'privatePort': 44}
       register: clc
 
 
